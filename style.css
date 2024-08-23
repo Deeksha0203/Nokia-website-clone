@@ -1,0 +1,463 @@
+body{
+    font-family: sans-serif;
+}
+
+
+.container-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+
+.nokia{
+    width: 140px;
+}
+
+
+.nokia:hover{
+    cursor: pointer;
+}
+
+
+.content ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    list-style-type: none;
+}
+
+
+.content ul li{
+    color: rgb(45, 146, 186)
+}
+
+
+.content ul li:hover{
+    color: rgb(19, 19, 181);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.icons{
+    display: flex;
+    gap: 30px;
+    color: blue;
+    font-size: 30px;
+}
+
+
+.icons:hover{
+    cursor: pointer;
+}
+
+
+.AI{
+    width: 100%;
+    height: 500px;
+}
+
+
+.explore h1{
+    padding: 10px 30px;
+    font-size: 70px;
+    font-weight: unset;
+}
+
+
+.network{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 10px 30px;
+}
+
+
+.network:hover{
+    cursor: pointer;
+}
+
+
+.data{
+    border-radius: 10px;
+}
+
+
+.full{
+    font-weight: unset;
+    font-size: 30px;
+}
+
+
+.right{
+    line-height: 22px;
+    font-size: 20px;
+}
+
+
+.featured{
+    padding: 30px;
+    font-size: 35px;
+}
+
+
+.networking{
+    display: flex;
+    gap: 20px;
+    padding: 0 30px;
+}
+
+
+.networking:hover{
+    cursor: pointer;
+}
+
+
+.midsummer{
+    color: #333;
+    font-size: 23px;
+}
+
+
+.product{
+    border-radius: 10px;
+}
+
+
+.mobile{
+    font-size: 20px;
+    color: #333;
+}
+
+
+.btn{
+    padding: 10px 30px;
+}
+
+
+.btn button{
+    background-color: rgb(27, 27, 241);
+    padding: 18px 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 7px;
+}
+
+
+.btn button:hover{
+    cursor: pointer;
+    background-color: rgb(60, 60, 210);
+}
+
+
+.collaborate{
+    background-color: rgba(249, 243, 243, 0.836);
+}
+
+
+.with:hover{
+    cursor: pointer;
+}
+
+
+.us{
+    padding: 30px;
+    font-size: 50px;
+    font-weight: unset;
+}
+
+
+.with{
+    display: flex;
+    padding: 30px;
+    gap: 10px;
+}
+
+
+.sky{
+    border-radius: 10px;
+}
+
+
+.liscence{
+    font-size: 30px;
+    font-weight: unset;
+}
+
+
+.grow{
+    font-size: 20px;
+}
+
+
+.more{
+    padding: 30px;
+}
+
+
+.office{
+    font-size: 50px;
+    font-weight: unset;
+}
+
+.results{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.Q2{
+    font-size: 40px;
+    font-weight: unset;
+}
+
+
+.jpg{
+    width: 652px;
+}
+
+
+.commit{
+    font-size: 24px;
+}
+
+
+.type{
+    padding: 15px 20px;
+    margin-top: 20px;
+    background-color: rgb(60, 60, 210);
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.type:hover{
+    cursor: pointer;
+    background-color: rgb(60, 60, 210);
+}
+
+
+.watch{
+    display: flex;
+    gap: 100px;
+}
+
+
+.rapid{
+    padding: 50px 0;
+}
+
+
+.innovation{
+    height: 350px;
+    padding: 50px 30px;
+    background-image: linear-gradient(to right,  rgb(199, 29, 29), rgb(244, 168, 26), rgb(225, 225, 31), lightgreen);
+}
+
+
+.insight{
+    font-size: 45px;
+    font-weight: unset;
+    color: white;
+}
+
+
+.technology{
+    font-size: 20px;
+    color: white;
+}
+
+
+.quantum{
+    display: flex;
+    gap: 30px;
+    padding: 0 100px;
+}
+
+
+.quantum:hover{
+    cursor: pointer;
+}
+
+
+.solid-img{
+    width: 352px;
+    height: 405px;
+    border-radius: 10px;
+}
+
+
+.img{
+    border-radius: 10px;
+}
+
+
+.just{
+    font-weight: unset;
+    color: #666363;
+    font-size: 25px;
+}
+
+
+.explore{
+    padding: 10px 30px;
+}
+
+
+#button:hover{
+    cursor: pointer;
+    background-color: rgb(6, 6, 101);
+}
+
+
+.svg{
+    padding: 100px 30px 50px;
+}
+
+
+.svg:hover{
+    cursor: pointer;
+}
+
+
+.underline{
+    padding: 1px;
+    background-color: gray;
+    margin: 0 30px;
+}
+
+
+.career{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    margin: 25px 0;
+}
+
+
+.device{
+    line-height: 25px;
+}
+
+
+.look{
+    color: #333;
+}
+
+
+.arrow{
+    font-weight: bold;
+}
+
+.arrow:hover{
+    cursor: pointer;
+}
+
+
+.device ul li{
+    list-style-type: none;
+    color: #333;
+}
+
+
+.device ul li:hover{
+    cursor: pointer;
+}
+
+
+.support{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+
+.contact ul{
+    display: flex;
+    gap: 20px;
+}
+
+
+.contact ul li{
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
+
+
+.contact ul li:hover{
+    cursor: pointer;
+}
+
+
+.socialmedia ul{
+    display: flex;
+    gap: 20px;
+}
+
+
+.subscribe{
+    padding: 15px 20px;
+    font-size: 18px;
+    border: 1px solid blue;
+    background: transparent;
+    color: blue;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.subscribe:hover{
+    cursor: pointer;
+    color: rgb(5, 5, 94);
+}
+
+
+.socialmedia ul li{
+    list-style-type: none;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+
+.right ul{
+    display: flex;
+    gap: 50px;
+    margin: 50px 0;
+}
+
+.right ul li{
+    list-style-type: none;
+    font-size: 14px;
+    color: gray
+}
+
+
+/* Industries css */
+
+.govt{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0 60px;
+    font-size: 12px;
+    background-color: rgb(238, 244, 247);
+}
+
+
+.line{
+    padding: 0.5px;
+    background-color: black;
+}
